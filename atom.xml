@@ -4,7 +4,7 @@
   <title><![CDATA[Blogz]]></title>
   <link href="http://seemonz.github.io/atom.xml" rel="self"/>
   <link href="http://seemonz.github.io/"/>
-  <updated>2014-12-23T12:01:51-06:00</updated>
+  <updated>2014-12-23T12:14:59-06:00</updated>
   <id>http://seemonz.github.io/</id>
   <author>
     <name><![CDATA[Simon]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This Is My Favouritesite.]]></title>
+    <link href="http://seemonz.github.io/blog/2014/12/23/this-is-my-favouritesite/"/>
+    <updated>2014-12-23T12:13:51-06:00</updated>
+    <id>http://seemonz.github.io/blog/2014/12/23/this-is-my-favouritesite</id>
+    <content type="html"><![CDATA[<p>external-url: <a href="http://www.giantbomb.com">http://www.giantbomb.com</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[POST Formatting]]></title>
