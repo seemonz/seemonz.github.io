@@ -4,7 +4,7 @@
   <title><![CDATA[Blogz]]></title>
   <link href="http://seemonz.github.io/atom.xml" rel="self"/>
   <link href="http://seemonz.github.io/"/>
-  <updated>2014-12-23T10:32:33-06:00</updated>
+  <updated>2014-12-23T10:39:19-06:00</updated>
   <id>http://seemonz.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,13 +18,20 @@
     <link href="http://seemonz.github.io/blog/2014/12/23/post-formatting/"/>
     <updated>2014-12-23T10:27:14-06:00</updated>
     <id>http://seemonz.github.io/blog/2014/12/23/post-formatting</id>
-    <content type="html"><![CDATA[<p><strong>Top of the Page</strong>
-SOmetimes I wonder why the world doesnt understand this isnt just me but you too.</p>
+    <content type="html"><![CDATA[<h1>**Top of the Page**</h1>
+
+
+<p>SOmetimes I wonder why the world doesnt understand this isnt just me but you too. </p>
+
 
 <!--more-->
 
 
 <p>Somtimes I feel like a loser and a loser isnt anything but a winner that didn&rsquo;t win.</p>
+
+<p>But often these paragraphs are really the winners of all of the shit.
+Often isn&rsquo;t always easy you see. Why is that? Well easy is often as often is sometimes.
+And not usually is sometimes anything but, often.</p>
 ]]></content>
   </entry>
   
