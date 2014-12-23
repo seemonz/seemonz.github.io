@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://seemonz.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Blogz
+subtitle: something for simon to do..
+author: Simon
 simple_search: https://www.google.com/search
-description:
+description: A blog for the ages.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -55,8 +55,8 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
-# blog_index_asides:
-# post_asides:
+blog_index_asides: [custom/asides/about.html, asides/recent_posts.html] 
+post_asides: [custom/asides/about.html, asides/recent_posts.html]
 # page_asides:
 
 # ----------------------- #
