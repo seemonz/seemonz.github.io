@@ -4,7 +4,7 @@
   <title><![CDATA[Blogz]]></title>
   <link href="http://seemonz.github.io/atom.xml" rel="self"/>
   <link href="http://seemonz.github.io/"/>
-  <updated>2014-12-23T10:39:19-06:00</updated>
+  <updated>2014-12-23T10:47:33-06:00</updated>
   <id>http://seemonz.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,17 +21,36 @@
     <content type="html"><![CDATA[<h1>**Top of the Page**</h1>
 
 
+
+
 <p>SOmetimes I wonder why the world doesnt understand this isnt just me but you too. </p>
 
 
 <!--more-->
 
 
-<p>Somtimes I feel like a loser and a loser isnt anything but a winner that didn&rsquo;t win.</p>
 
-<p>But often these paragraphs are really the winners of all of the shit.
-Often isn&rsquo;t always easy you see. Why is that? Well easy is often as often is sometimes.
-And not usually is sometimes anything but, often.</p>
+
+<p>Somtimes I feel like a loser and a loser isnt anything but a winner that didn&#8217;t win.</p>
+
+
+
+
+<p>But often these paragraphs are really the winners of all of the shit. 
+Often isn&#8217;t always easy you see. Why is that? Well easy is often as often is sometimes. 
+And not usually is sometimes anything but, often. </p>
+
+
+
+
+<blockquote>
+
+    <p>Why is there life inside.</p>
+    
+    <p> Why isn&#8217;t life all outside.</p>
+    
+</blockquote>
+
 ]]></content>
   </entry>
   
