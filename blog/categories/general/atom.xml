@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: General | Blogz]]></title>
+  <title><![CDATA[Category: general | Blogz]]></title>
   <link href="http://seemonz.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://seemonz.github.io/"/>
-  <updated>2014-12-24T17:40:34-06:00</updated>
+  <updated>2014-12-25T14:50:26-06:00</updated>
   <id>http://seemonz.github.io/</id>
   <author>
     <name><![CDATA[Simon]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[New Post]]></title>
+    <title type="html"><![CDATA[new post]]></title>
     <link href="http://seemonz.github.io/blog/2014/12/22/new-post/"/>
     <updated>2014-12-22T20:27:08-06:00</updated>
     <id>http://seemonz.github.io/blog/2014/12/22/new-post</id>

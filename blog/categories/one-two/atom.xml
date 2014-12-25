@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: One. Two | Blogz]]></title>
+  <title><![CDATA[Category: one. two | Blogz]]></title>
   <link href="http://seemonz.github.io/blog/categories/one-two/atom.xml" rel="self"/>
   <link href="http://seemonz.github.io/"/>
-  <updated>2014-12-24T17:40:34-06:00</updated>
+  <updated>2014-12-25T14:50:26-06:00</updated>
   <id>http://seemonz.github.io/</id>
   <author>
     <name><![CDATA[Simon]]></name>
