@@ -36,32 +36,38 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://seemonz.github.io/archives/</loc>
-    <lastmod>2014-12-25T15:03:37-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>http://seemonz.github.io/</loc>
-    <lastmod>2014-12-25T15:03:37-06:00</lastmod>
+    <lastmod>2014-12-26T10:11:05-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://seemonz.github.io/blog/archives/</loc>
-    <lastmod>2014-12-25T15:03:37-06:00</lastmod>
+    <lastmod>2014-12-26T10:11:05-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://seemonz.github.io/super-awesome/</loc>
-    <lastmod>2014-12-25T15:03:37-06:00</lastmod>
+    <loc>http://seemonz.github.io/archives/</loc>
+    <lastmod>2014-12-26T10:11:05-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://seemonz.github.io/unpublished/</loc>
-    <lastmod>2014-12-25T15:03:37-06:00</lastmod>
+    <lastmod>2014-12-26T10:11:05-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://seemonz.github.io/super-awesome/</loc>
+    <lastmod>2014-12-26T10:11:05-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://seemonz.github.io/about/</loc>
+    <lastmod>2014-12-26T10:11:05-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
