@@ -6,8 +6,6 @@ comments: true
 categories: Pics, Climbing,
 ---
 
-<h1>Climbing in Bishop</h1>
-
 Went on a nine day climbing trip down to Bishop California with a bunch of climbing folk from 
 Winnipeg. 
 
