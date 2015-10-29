@@ -1,5 +1,5 @@
 # seemonz.github.io
-So I wanted to build a [website.] (seemonz.github.io)
+So I wanted to build a [website.] (http://seemonz.github.io)
 
 Basically my attempt at learning how to build something of a site.
 
